@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/gerenciar_perfil"
+            android:icon="@drawable/ic_gerenciar_perfil"
+            android:title="Gerenciar Perfil" />
+        <item
+            android:id="@+id/visualizar_cadastros"
+            android:icon="@drawable/ic_visualizar_cadastros"
+            android:title="Visualizar Cadastros" />
+
+    </group>
+
+    <item android:title="Sessão">
+        <menu>
+            <item
+                android:id="@+id/encerrar_sessao"
+                android:icon="@drawable/ic_encerrar_sessao"
+                android:title="Encerrar Sessão" />
+        </menu>
+    </item>
+
+</menu>

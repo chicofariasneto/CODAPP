@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "258325705480",
+    "firebase_url": "https://codapp-474da.firebaseio.com",
+    "project_id": "codapp-474da",
+    "storage_bucket": "codapp-474da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258325705480:android:a64239d9a81acb38",
+        "android_client_info": {
+          "package_name": "com.example.lucas.codapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258325705480-oef67hu01sk6vmfforh8hbp294baph8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lucas.codapp",
+            "certificate_hash": "c054c4d756b4c8f61828ba76b09e3bea4887aee3"
+          }
+        },
+        {
+          "client_id": "258325705480-eh51ianotig62dfj3rm7v1m91nudlod7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lucas.codapp",
+            "certificate_hash": "d4ba107397bccbdeacc9631c7487d61b23f3c042"
+          }
+        },
+        {
+          "client_id": "258325705480-thtigbgrerjrsm99oovld18b3psscnpi.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "258325705480-thtigbgrerjrsm99oovld18b3psscnpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-WxtyeXKonzC4IKYwFkLjithz4FaPRcQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258325705480-thtigbgrerjrsm99oovld18b3psscnpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
